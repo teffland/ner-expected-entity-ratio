@@ -1,5 +1,5 @@
 # ner-expected-entity-ratio
-Implementation and experiments for "Partially Supervised Named Entity Recognition via the Expected Entity Ratio Loss" to appear in TACL 2021.
+Implementation and experiments for "[Partially Supervised Named Entity Recognition via the Expected Entity Ratio Loss](https://arxiv.org/abs/2108.07216)" to appear in TACL 2021.
 
 ## Installation
 
