@@ -14,7 +14,7 @@ Then activate with: `conda activate env`
 
 ### Getting the data
 
-The CoNLL 2003 data Stephen Mayhew is already in the `data/` dir, but the ontonotes5 data must be created programmatically after you place the corpus
+The CoNLL 2003 data from Mayhew et al. 19 is already in the `data/` dir, but the ontonotes5 data must be created programmatically after you place the corpus
 directory into the `data/` dir because of licensing restrictions.
 
 Then in this order run the commands:
