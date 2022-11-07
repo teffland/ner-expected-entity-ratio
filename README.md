@@ -64,12 +64,12 @@ Also, we've left out the codebases for the baselines (Mayhew et al. '19, Li et a
 
 If you make use of this code or information from the paper please cite:
 ```
-@misc{effland2021partially,
-      title={Partially Supervised Named Entity Recognition via the Expected Entity Ratio Loss}, 
-      author={Thomas Effland and Michael Collins},
-      year={2021},
-      eprint={2108.07216},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{Effland2021PartiallySN,
+  title={Partially Supervised Named Entity Recognition via the Expected Entity Ratio Loss},
+  author={Thomas Effland and Michael Collins},
+  journal={Transactions of the Association for Computational Linguistics},
+  year={2021},
+  volume={9},
+  pages={1320-1335}
 }
 ```
